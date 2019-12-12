@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="popup.css" />
+</head>
+
+<body>
+    <div id="wrapper">
+        <img src="images/bademsavar.gif">
+        <h2 class="popupTitle">BademSavar</h2>
+        <p>Bademleri Google sonuçlarından temizleyin!</p>
+        <div class="intro">
+        </div>
+        <form>
+            <input class="addDomain" type="text" name="domain" placeholder="Badem ekle!" />
+            <button class="addDomain" type="submit"><img src="images/add.svg" class="icon" alt="+"/></button>
+        </form>
+        <div class="options">
+            <div class="option showHidden">
+                <span class="showHiddenText">Bademleri göster!</span>
+                <button class="showHiddenLink"><img src="images/showed.svg" class="icon" alt="Show"></button>
+            </div>
+            <div class="option export">
+                <span>Bademleri dosyaya aktar!</span>
+                <button class="exportListLink"><img src="images/save.svg" class="icon" alt="Export"></button>
+            </div>
+        </div>
+        <h3 class="domainsListTitle">Bademler:</h3>
+        <div class="domainsList">
+        </div>
+    </div>
+    <script src="popup.js"></script>
+</body>
+
+</html>

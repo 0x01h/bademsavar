@@ -1,0 +1,75 @@
+html,
+body {
+    background: #fff;
+}
+
+#wrapper {
+    margin: 5px;
+    box-sizing: border-box;
+    padding: 10px;
+    width: 275px;
+    overflow: auto;
+}
+
+.popupTitle {
+    margin: 0 0 5px;
+}
+
+.domainsList__row {
+    margin-top: 5px;
+    padding-top: 5px;
+    border-top: 1px solid #ddd;
+    clear: both;
+}
+
+.domainsList__rowDomain {
+    float: left;
+}
+
+.domainsList__rowDelBtn {
+    float: right;
+    padding: 0;
+    margin-bottom: 5px;
+}
+
+.options .option {
+    margin-top: 5px;
+    padding-top: 5px;
+    border-top: 1px solid #ddd;
+    clear: both;
+}
+
+.options .option button {
+    float: right;
+    margin-bottom: 5px;
+}
+
+.domainsListTitle {
+    margin-top: 5px;
+    padding-top: 5px;
+    border-top: 1px solid #ddd;
+    margin-bottom: 0;
+    clear: both;
+}
+
+button {
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+}
+
+input.addDomain {
+    margin-bottom: 5px;
+    display: block;
+    float: left;
+}
+
+button.addDomain {
+    margin-bottom: 5px;
+    float: right;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
