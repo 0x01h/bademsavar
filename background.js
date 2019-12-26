@@ -137,7 +137,11 @@ const initialList = [
     'uyan32.com',
     'kamuajans.com',
     'kpsscafe.com.tr',
-    'emlak365.com'
+    'emlak365.com',
+    'isinolsa.com',
+    'haberzamani.net',
+    'pusulahaber.com.tr',
+    'finans365.com'
 ];
 
 if (typeof(browser) != "undefined") {
