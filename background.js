@@ -136,7 +136,8 @@ const initialList = [
     'yenimeram.com.tr',
     'uyan32.com',
     'kamuajans.com',
-    'kpsscafe.com.tr'
+    'kpsscafe.com.tr',
+    'emlak365.com'
 ];
 
 if (typeof(browser) != "undefined") {
