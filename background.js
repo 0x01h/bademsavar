@@ -130,7 +130,15 @@ const initialList = [
     'yenimesaj.com.tr',
     'yenisafak.com',
     'yirmidorthaber.com',
-    'zaman.com.tr'
+    'zaman.com.tr',
+    'medimagazin.com.tr',
+    'kamuajans.com',
+    'kpsscafe.com.tr',
+    'emlak365.com',
+    'isinolsa.com',
+    'haberzamani.net',
+    'pusulahaber.com.tr',
+    'finans365.com'
 ];
 
 if (typeof(browser) != "undefined") {
