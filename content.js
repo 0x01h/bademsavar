@@ -36,7 +36,7 @@
             for (j = 0; j < blockedDomains.length; j++) {
                 if ((results[i].firstChild) && (typeof(results[i].firstChild.hostname) != "undefined") && (results[i].parentNode.parentNode.parentNode)) {
                     if (results[i].firstChild.hostname.includes(blockedDomains[j]) == true) {
-                        results[i].parentNode.parentNode.parentNode.style.display = 'none';
+                        results[i].parentNode.parentNode.style.display = 'none';
                         break;
                     }
                 }
