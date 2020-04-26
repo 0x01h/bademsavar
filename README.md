@@ -1,4 +1,4 @@
-![BademSavar](icons/icon-96x96.png)
+![BademSavar](icons/96x96.png)
 
 # BademSavar [![Supported Browsers](https://img.shields.io/badge/supported%20browsers-firefox%20|%20chrome%20|%20opera-informational?logo=pinboard&style=flat-square)](https://pypi.python.org/pypi/ansicolortags/) [![Repository Size](https://img.shields.io/github/repo-size/0x01h/bademsavar)](https://pypi.python.org/pypi/ansicolortags/) [![Extension Version](https://img.shields.io/github/manifest-json/v/0x01h/bademsavar?style=flat-square)](https://pypi.python.org/pypi/ansicolortags/) [![GitHub License](https://img.shields.io/github/license/0x01h/bademsavar?style=flat-square)](https://pypi.python.org/pypi/ansicolortags/)
 
