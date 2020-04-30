@@ -139,7 +139,7 @@ const initialList = [
   "haberzamani.net",
   "pusulahaber.com.tr",
   "finans365.com",
-  "www.nethaber.com",
+  ".nethaber.com",
   "risaleajans.com"
 ];
 
